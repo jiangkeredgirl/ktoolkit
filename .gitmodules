@@ -1,0 +1,6 @@
+[submodule "kcommonhpp"]
+	path = kcommonhpp
+	url = https://github.com/jiangkeredgirl/kcommonhpp.git
+[submodule "kprojecthpp"]
+	path = kprojecthpp
+	url = https://github.com/jiangkeredgirl/kprojecthpp.git
